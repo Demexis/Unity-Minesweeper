@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9c4751787d420d95bd989208b291a9, type: 3}
+  m_Name: MinesweeperSpritesStorage
+  m_EditorClassIdentifier: 
+  closedCellSprite: {fileID: 21300000, guid: 8a1004fdce03100419e2a3aa2089b68c, type: 3}
+  openCellSprite: {fileID: 21300000, guid: f0d2a8a20e4795b4ba6d92a2875a6a37, type: 3}
+  invisibleSprite: {fileID: 21300000, guid: 45820d9f3630cb54cbd0bdeb5270b8b2, type: 3}
+  zeroMinesSprite: {fileID: 21300000, guid: e2ef4ea9c83a6df429ab74805c4e7ec0, type: 3}
+  oneMineSprite: {fileID: 21300000, guid: 96669cbbc04923446a226c01dd714fac, type: 3}
+  twoMinesSprite: {fileID: 21300000, guid: ea7b252abbea440428f87a94ec7561d1, type: 3}
+  threeMinesSprite: {fileID: 21300000, guid: 48f502b302d8c49499ebb9590b24fe7b, type: 3}
+  fourMinesSprite: {fileID: 21300000, guid: 1a06e7b858e134f44bb1d9ff524a5b9e, type: 3}
+  fiveMinesSprite: {fileID: 21300000, guid: 84a811597aa9bf644956d0df26ed9a9c, type: 3}
+  sixMinesSprite: {fileID: 21300000, guid: 96e3eeabcd39ba54fadbb9df8a292a90, type: 3}
+  sevenMinesSprite: {fileID: 21300000, guid: 1400d997150df2a48b1b8c8e6123adc7, type: 3}
+  eightMinesSprite: {fileID: 21300000, guid: ac5f6bd5fd97f1948b28cab8d1bc3379, type: 3}
+  mineSprite: {fileID: 21300000, guid: 3ff800cd5544ff646beea62aa989ee4b, type: 3}
+  explodedSprite: {fileID: 21300000, guid: fc43513a132b58849a5ccbe38b5017f2, type: 3}
+  defusedSprite: {fileID: 21300000, guid: 18f6b6898229a4d408595d9779bb4173, type: 3}
+  flaggedSprite: {fileID: 21300000, guid: bbff30c5bbd0f0b4c88e8b0c29b567a2, type: 3}
